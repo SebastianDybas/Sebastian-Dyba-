@@ -1,6 +1,6 @@
 # Sebastian-Dybas
 My personal GitHub profile – a young programming learner sharing my projects and progress in Python.
-# Cześć, jestem młodym programistą
+# Cześć
 
 ## O mnie
 Młody i ambitny uczeń programowania.  
